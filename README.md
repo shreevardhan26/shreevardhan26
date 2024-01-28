@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning node mcu
 - 💞️ I’m looking to collaborate voice assistan project
 - 📫 How to reach me my email @tryeverything26@gmail.com
-- 😄 Pronouns: ...he/him?his
+- 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: ...
 
 <!---
